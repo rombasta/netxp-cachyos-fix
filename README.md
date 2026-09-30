@@ -462,7 +462,7 @@ env WINEPREFIX="$HOME/.wine-netxp32" WINEARCH=win32 \
 
 Die aktuelle Netxp-Software selbst sollte immer von der offiziellen Downloadseite bezogen werden:
 
-**[Netxp:Verein -- offizieller Software-Download](https://www.netxp-verein.de/download/software/windows/)**
+**[Netxp:Verein -- offizieller Software-Download](https://www.netxp-verein.de/download/software/linux/)**
 
 ## 15. Verhalten nach einem Netxp-Update
 
